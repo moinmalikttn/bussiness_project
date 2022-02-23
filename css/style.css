@@ -68,6 +68,10 @@ ul li {
   background-color: orange;
 }
 
+.red{
+  background-color: red;
+}
+
 .col-md-3 img {
   max-width: 100%;
   height: auto;
